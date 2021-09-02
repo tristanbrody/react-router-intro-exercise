@@ -1,0 +1,11 @@
+.Snack-nav a {
+  margin: 10px;
+}
+
+div {
+  position: relative;
+}
+
+.active {
+  color: salmon;
+}
